@@ -1,2 +1,2 @@
-# RepositorioHenry
-Este repositorio es para agregar los archivos nuevos
+Este repositorio se utilizara para ir subiendo continuamente los avances hechos durante
+el PrepCourse de Henry
